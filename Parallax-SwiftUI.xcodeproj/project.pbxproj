@@ -14,6 +14,7 @@
 		CB9014792882D47D005A1AD9 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9014782882D47D005A1AD9 /* HomeView.swift */; };
 		CB90147D2882DF1E005A1AD9 /* CardData.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB90147C2882DF1E005A1AD9 /* CardData.swift */; };
 		CB9014802882E305005A1AD9 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB90147F2882E305005A1AD9 /* Extensions.swift */; };
+		CB901486288351EF005A1AD9 /* CreditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB901485288351EF005A1AD9 /* CreditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		CB9014782882D47D005A1AD9 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		CB90147C2882DF1E005A1AD9 /* CardData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardData.swift; sourceTree = "<group>"; };
 		CB90147F2882E305005A1AD9 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		CB901485288351EF005A1AD9 /* CreditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				CB9014782882D47D005A1AD9 /* HomeView.swift */,
+				CB901485288351EF005A1AD9 /* CreditView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB9014802882E305005A1AD9 /* Extensions.swift in Sources */,
+				CB901486288351EF005A1AD9 /* CreditView.swift in Sources */,
 				CB90147D2882DF1E005A1AD9 /* CardData.swift in Sources */,
 				CB9014792882D47D005A1AD9 /* HomeView.swift in Sources */,
 				CB9014692882D2D7005A1AD9 /* ContentView.swift in Sources */,
