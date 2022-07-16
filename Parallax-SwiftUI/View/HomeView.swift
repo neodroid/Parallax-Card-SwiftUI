@@ -53,6 +53,7 @@ struct HomeView: View {
                             .aspectRatio(contentMode: .fill)
                             .offset(x: roll * 5)
                             .frame(width: geo.size.width, height: geo.size.height)
+                            .scaleEffect(1.1)
                             .clipped()
                             
                         HStack{
